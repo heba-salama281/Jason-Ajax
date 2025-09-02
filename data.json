@@ -1,0 +1,29 @@
+[{
+    "id": 101,
+    "name": "Ali",
+    "title": "Programmer",
+    "contact": {
+      "email": "ali@example.com",
+      "phone": "+20123456789"
+    }
+  },
+  {
+    "id": 101,
+    "name": "Heba",
+    "title": "Graphic Designer",
+    "contact": {
+      "email": "ali@example.com",
+      "phone": "+20123456789"
+    }
+  },
+    {
+    "id": 101,
+    "name": "Mona",
+    "title": "Technical Writer",
+    "contact": {
+      "email": "ali@example.com",
+      "phone": "+20123456789"
+    }
+  }
+]
+
