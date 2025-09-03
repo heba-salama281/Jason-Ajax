@@ -3,8 +3,8 @@
     "name": "Ali",
     "title": "Programmer",
     "contact": {
-      "email": "ali@example.com",
-      "phone": "+20123456789"
+      "email": ["ali@example.com", "ali123@example.com"],
+      "phone": ["+20123456789"]
     }
   },
   {
@@ -12,8 +12,8 @@
     "name": "Heba",
     "title": "Graphic Designer",
     "contact": {
-      "email": "ali@example.com",
-      "phone": "+20123456789"
+      "email": ["ali@example.com"],
+      "phone": ["+20123456789"]
     }
   },
     {
@@ -21,9 +21,10 @@
     "name": "Mona",
     "title": "Technical Writer",
     "contact": {
-      "email": "ali@example.com",
-      "phone": "+20123456789"
+      "email": ["ali@example.com"],
+      "phone": ["+20123456789", "01283398830"]
     }
   }
 ]
+
 
