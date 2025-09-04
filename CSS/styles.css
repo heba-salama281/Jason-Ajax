@@ -6,3 +6,30 @@
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+h1{
+  font-size: 28px;
+  font-weight: bold;
+  color: rgb(49, 49, 49);
+  margin: 40px 20px 15px 20px;
+}
+#loadData{
+  background-color: rgb(167, 30, 30);
+  height: 40px;
+  width: 200px;
+  margin: 10px 20px;
+  border-radius: 10px;
+  color: rgb(228, 228, 228);
+  font-size: 20px;
+  border:0px;
+  cursor: pointer;
+}
+
+#postList{
+  margin: 20px;
+  line-height: 35px;
+  font-size: 20px;
+}
+#postList li{
+  margin-left: 20px;
+  padding-left: 20px;
+}
